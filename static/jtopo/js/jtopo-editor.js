@@ -1129,7 +1129,7 @@ editor.utils = {
         }
     },
     // 清空编辑器
-    horizontalclearTopology: function () {
+    clearTopology: function () {
         // 删除节点表对应的节点记录
         editor.deleteAllNodes()
     },
